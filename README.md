@@ -1,1 +1,3 @@
 # pomodoro
+GUI pomodoro timer with tkinter
+25min work, 5min break, 25min work, 5min break...
